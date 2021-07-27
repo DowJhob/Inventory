@@ -1,0 +1,3 @@
+#include "inventoryitem.h"
+
+
